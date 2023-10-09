@@ -1,7 +1,7 @@
 # Project--R-17
 
 <table>
-Usually when dealing with an unsupervised learning problem, its difficult to get a good measure of how well the model performed. 
+Usually when dealing with an unsupervised learning problem, its difficult to get a good measure of how well the model performed.<br>
   
 **In this project, we will use data from the UCI archive based off of red and white wines (this is a very commonly used data set in ML)**.<br></br>
 The sets contain physicochemical properties of red and white Vinho Verdes wines and their respective sensory qualities as assessed by wine experts.
