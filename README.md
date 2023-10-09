@@ -7,7 +7,7 @@ Usually when dealing with an unsupervised learning problem, its difficult to get
 The sets contain physicochemical properties of red and white Vinho Verdes wines and their respective sensory qualities as assessed by wine experts.<br></br>
 The set includes samples of 1599 different red and 4898 white wines regarding the following attributes:
 
-**Atrribute**	       **Unit**	    **Description**<br></br>
+**Atrribute**	       **Unit**	    **Description**<br>
 Fixed Acidity	    g/L	    Concentration of non-volatile tartaric acid in the wine.<br></br>
 Volatile Acidity  g/L	    Concentration of volatile acetic acid in the wine.<br></br>
 Citric Acid	      g/L	    Concentration of citric acid in the wine.<br></br>
