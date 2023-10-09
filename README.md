@@ -20,9 +20,7 @@ pH	          1   - 14	   Acidity of the wine.<br></br>
 Sulphates	    g/L	        Concentration of potassium sulfate in the wine.<br></br>
 Alcohol	      vol%	      Alcohol content of the wine.<br></br>
 Quality	     1 - 10	      Wine quality score as assessed by experts.<br></br>
-
-
   
 </table>
 
-**As usual for 
+**So what are you waiting for..? Jump to the code to get started and learn to make this amazing project using KNN clustering. As usual for any doubt or query see you in pull request section 😁😂. Thanks!** 
